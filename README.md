@@ -13,7 +13,6 @@
   </a>
   <img src="https://img.shields.io/badge/Technology_Node-45nm_CMOS-informational?style=flat-square" alt="Tech Node">
   <img src="https://img.shields.io/badge/EDA_Tool-Cadence_Virtuoso-critical?style=flat-square" alt="Tool">
-  <img src="https://img.shields.io/badge/Published_In-IEEE_TVLSI_2021-success?style=flat-square" alt="Venue">
   <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square" alt="Status">
 </p>
 
