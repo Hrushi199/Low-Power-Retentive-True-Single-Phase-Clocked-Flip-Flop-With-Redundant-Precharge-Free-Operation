@@ -1,0 +1,1 @@
+# Low-Power-Retentive-True-Single-Phase-Clocked-Flip-Flop-With-Redundant-Precharge-Free-Operation
